@@ -6,6 +6,12 @@
 
 把自己辛苦标定出来的参数打包成一个 `.discpreset` 文件发给别人，对方双击导入就能用，不用再手动抄那一堆数（内半径、外半径、扇区数、轨距系数……）。
 
+## 下载
+
+👉 **[⬇ 下载最新版](https://github.com/XiaoPengqwq/DiscImageStudio-PresetTool/releases/latest)**
+
+免安装，双击即用。需要 .NET Framework 4.x（Windows 10 / 11 自带）。
+
 ![界面截图](assets/screenshot.png)
 
 ---
